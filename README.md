@@ -17,7 +17,7 @@ This repository contains a frontend clone of the Obys Agency website, created fo
 - Clean and modular code for ease of understanding.
 
 ## Preview
-<img src="https://github.com/Deepakchamola/Obys_Agency/blob/eade80e6446ccc703cd6e8803c1beee4ce719993/assets/img/Obys_Agency_ss.png" width="850" height="400" />
+<img src="https://github.com/Deepakchamola/Obys_Agency/blob/ac34faf3aaab032174cb30b8f9f4d917da9790ac/Obys_Agency_ss.png" width="850" height="400" />
 
 ## Live Demo
 Watch live demo of Obys Agency clone website: [View Live]()
