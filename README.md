@@ -7,7 +7,7 @@ This repository contains a frontend clone of the Obys Agency website, created fo
 - JavaScript: Dynamic behaviors and interactions.
 - Locomotive.js: Library for smooth scrolling and animations.
 - ScrollTrigger: Scroll-based animations and triggers.
-- Sherry.js: Custom library used in the project by Sheryians Coding sShool for smooth animation.
+- Sherry.js: Custom library used in the project by Sheryians Coding School for smooth animation.
 
 ## Features
 - Smooth scrolling with Locomotive.js.
